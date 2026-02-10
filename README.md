@@ -1,5 +1,10 @@
 # NaukNauk Clone - AI Animation Platform
 
+[![Deployed on Vercel](https://img.shields.io/badge/deployed%20on-vercel-000000?style=flat&logo=vercel)](https://nauknauk-clone-kwx197iva-jon-smiths-projects-a3dfc292.vercel.app)
+[![GitHub stars](https://img.shields.io/github/stars/BluShooz/nauknauk-clone?style=social)](https://github.com/BluShooz/nauknauk-clone/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/BluShooz/nauknauk-clone?style=social)](https://github.com/BluShooz/nauknauk-clone/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A fully functional MVP of NaukNauk - an AI-powered platform that transforms static toy/figure photos into animated videos.
 
 **🚀 Live Demo:** https://nauknauk-clone-kwx197iva-jon-smiths-projects-a3dfc292.vercel.app
