@@ -2,6 +2,9 @@
 
 A fully functional MVP of NaukNauk - an AI-powered platform that transforms static toy/figure photos into animated videos.
 
+**🚀 Live Demo:** https://nauknauk-clone-kwx197iva-jon-smiths-projects-a3dfc292.vercel.app
+**💻 Repository:** https://github.com/BluShooz/nauknauk-clone
+
 ## 🚀 Features
 
 ### Core MVP Features (Completed)
